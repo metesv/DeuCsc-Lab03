@@ -1,0 +1,12 @@
+C:\Users\Baris\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\Baris\source\repos\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\Baris\source\repos\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Baris\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Baris\source\repos\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\METEHAN\Desktop\Lab03-master\Lab03-master\Lab03\bin\Debug\Lab03.exe
+C:\Users\METEHAN\Desktop\Lab03-master\Lab03-master\Lab03\bin\Debug\Lab03.pdb
+C:\Users\METEHAN\Desktop\Lab03-master\Lab03-master\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\METEHAN\Desktop\Lab03-master\Lab03-master\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\METEHAN\Desktop\Lab03-master\Lab03-master\Lab03\obj\Debug\Lab03.exe
+C:\Users\METEHAN\Desktop\Lab03-master\Lab03-master\Lab03\obj\Debug\Lab03.pdb
